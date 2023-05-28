@@ -15,5 +15,15 @@ Tqdm 4.65.0
 Opencv 4.7.0.72     
 Kreas 2.12.0    
 ## Preproocessing
-![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/fff419a8-d642-4bf9-b4ec-84480af6c330)
-
+Augmentation     
+   90 degree     
+   180 degree    
+   270 degree    
+Has total 4100 pictures    
+    4000 pictures for training     
+    100 for test     
+## CNN model
+![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/5c9c45f8-02ec-4169-b82c-bf5953fa1f2c)
+![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/e6316343-fe95-44a2-a1e8-3092a9b4d967)
+#### result
+![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/a13fef7e-d3f4-452e-8677-41273ea46579)
