@@ -37,4 +37,6 @@ Has total 4100 pictures
 ![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/4889b6e1-a538-4ce5-9e67-8772d4c91a3b)
 ![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/77a4a69d-4b93-4646-8331-90c3886e4e48)
 ![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/7e6afb04-9b68-4c6b-9ab3-45ec64c2b547)
+## Application
+The current license plate recognition has gradually matured, but occasionally there is still a chance of making mistakes. If the car logo recognition is added, it can help the police to add a confirmation opportunity, which can reduce the chance of making mistakes, and at the same time make technology law enforcement more and more mature, to reduce the burden on the police.
 
