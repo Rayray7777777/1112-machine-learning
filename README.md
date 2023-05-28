@@ -21,8 +21,8 @@ Augmentation
    >270 degree      
 
 Has total 4100 pictures    
-    >4000 pictures for training     
-    >100 for test     
+>4000 pictures for training     
+>100 for test     
 ## CNN model
 ![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/5c9c45f8-02ec-4169-b82c-bf5953fa1f2c)
 ![image](https://github.com/Rayray7777777/1112-machine-learning/assets/132484524/e6316343-fe95-44a2-a1e8-3092a9b4d967)
