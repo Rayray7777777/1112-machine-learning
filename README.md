@@ -18,7 +18,8 @@ Kreas 2.12.0
 Augmentation     
    >90 degree     
    >180 degree    
-   >270 degree    
+   >270 degree      
+
 Has total 4100 pictures    
     >4000 pictures for training     
     >100 for test     
